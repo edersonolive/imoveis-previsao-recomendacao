@@ -3,8 +3,6 @@ A fictícia imobiliária InsightPlaces, situada na cidade do Rio de Janeiro, est
 
 Este é um projeto feito para analisar os dados de valores de imóveis no Rio de Janeiro através do banco de dados, criar uma previsão de preço de acordo com as características do imóvel e criar um recomendador.
 
-Utilizando a ferramenta Pyspark, ideal para trabalhar com grandes volumes de dados, foram feitos os tratamentos no banco de dados, criação e avaliação dos modelos de machile learning com otimização por cross validation (Regressão Linear, Decision Tree e Random Forest) e uma previsão baseada no modelo mais performático.
-
 <b>Status: Projeto concluído.<b/> 
 
 <h2>Etapas realizadas</h2>
